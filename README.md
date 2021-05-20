@@ -7,10 +7,12 @@
 In this project I created an application which show to user details of song.
 This is a simple app in which user need to select song title to see details of song.
 
-## Technologies 
+## Technologies:
 
 -react
--redux 
+---
+-redux
+--- 
 -rect redux
 
 ## Set up for application
@@ -23,7 +25,8 @@ This is a simple app in which user need to select song title to see details of s
 
 3. Start the app
 ### `npm start`
--Runs the app on your local machine.
+-Runs the app on your local machine
+---
 -Open http://localhost:3000 to explore.
 
 
