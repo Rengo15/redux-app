@@ -19,11 +19,11 @@ This is a simple app in which user need to select song title to see details of s
 
 2. Install NPM packages
 ### `npm install`
-Installs all required npm packages for starting app
+-Installs all required npm packages for starting app.
 
 3. Start the app
 ### `npm start`
-Runs the app on your local machine
-Open http://localhost:3000 to explore
+-Runs the app on your local machine.
+-Open http://localhost:3000 to explore.
 
 
